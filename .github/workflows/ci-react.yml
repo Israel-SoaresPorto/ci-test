@@ -1,8 +1,9 @@
 name: CI for React Aplication
 
-on: [push]
-branches:
-  - react-app-test
+on: 
+  [push]
+branches: 
+  [react-app-test]
 
 jobs:
 
