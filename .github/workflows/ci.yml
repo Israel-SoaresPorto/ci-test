@@ -8,10 +8,10 @@ jobs:
 
     steps:
       - name: "Mensagem 1"
-        run: "Executando pipeline"
+        run: echo "Executando pipeline"
 
       - name: "Mensagem 2"
-        run: "Pipeline finalizada"
+        run: echo "Pipeline finalizada"
       
     
 
